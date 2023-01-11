@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-sortable-input",
+    "name": "swiatprzesylek/yii2-sortable-input",
     "description": "Sortable input widget based on yii2-sortable extension.",
     "keywords": ["yii2", "extension", "widget", "input", "sortable", "range", "jquery", "bootstrap"],
     "homepage": "https://github.com/kartik-v/yii2-sortable-input",
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "kartik-v/yii2-sortable": "~1.2"
+        "swiatprzesylek/yii2-sortable": "dev-master"
     },
     "autoload": {
         "psr-4": {
