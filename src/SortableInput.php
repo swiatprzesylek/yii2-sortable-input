@@ -10,7 +10,7 @@ namespace swiatprzesylek\sortinput;
 
 use yii\helpers\Html;
 use yii\base\InvalidConfigException;
-use kartik\sortable\Sortable;
+use swiatprzesylek\sortable\Sortable;
 
 /**
  * A sortable input list widget based on yii2-sortable widget.
