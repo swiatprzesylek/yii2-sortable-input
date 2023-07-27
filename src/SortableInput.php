@@ -6,7 +6,7 @@
  * @version 1.2.1
  */
 
-namespace kartik\sortinput;
+namespace swiatprzesylek\sortinput;
 
 use yii\helpers\Html;
 use yii\base\InvalidConfigException;
